@@ -1,0 +1,9 @@
+One time
+- install npm
+- npm install -g node, nodemon and other Global packages and tools
+
+Each time
+- git init
+- npm init
+- npm install --save {modules}
+    -create .gitignore (node_modules)
